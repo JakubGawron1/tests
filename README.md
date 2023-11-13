@@ -1,1 +1,1 @@
-(Interfaces.png)
+![interfejsy wykres](Interface.png)
